@@ -1,8 +1,8 @@
 # Disney+ Hotstar Front-end Clone
 
-Welcome to this repository containing a front-end clone of the Disney+ Hotstar website, built using pure HTML, CSS, and JavaScript.
+Greetings! Here in this repository, you'll discover a front-end replica of the Disney+ Hotstar website. This replica has been crafted using only HTML, CSS, and JavaScript.
 
-Please note that this website is for educational purposes only and is intended to be used as a portfolio piece. It is not intended for commercial or monetary gain and is not affiliated with Disney and Hotstar.
+Kindly be aware that this website serves an educational purpose exclusively and serves as a showcase for a portfolio. It is not designed for financial profit or any commercial endeavors, and it is not affiliated with Disney and Hotstar.
 
 # Installation
 
@@ -22,8 +22,8 @@ Please note that this website is for educational purposes only and is intended t
 
 ## Disclaimer
 
-Please note that the code provided in this repository may not be the most efficient or optimal solution and is intended for educational purposes only. It is recommended to use this code as a reference or starting point and to try building your own version of the project before looking at the solutions.
+Kindly be aware that the code made available in this repository might not represent the most efficient or optimal solution. Its purpose is primarily educational. We suggest utilizing this code as a point of reference or initial foundation, and encourage attempting to develop your own iteration of the project before consulting the solutions provided.
 
 ## Conclusion
 
-This repository provides a front-end clone of the Disney+ Hotstar website, built using pure HTML, CSS, and JavaScript. It is intended for educational purposes and can be used as a portfolio piece. Use the code provided in this repository as a reference or starting point and try building your own version of the project. It is important to note that the project is not affiliated with Disney and Hotstar and is not intended for commercial or monetary gain.
+This repository offers a replica of the Disney+ Hotstar website's front-end, constructed using only HTML, CSS, and JavaScript. Its purpose is primarily educational and can serve as an addition to your portfolio. Utilize the code within this repository as a guide or foundation for creating your personalized rendition of the project. It's worth emphasizing that this endeavor is independent from Disney and Hotstar, and it is not designed for financial or commercial benefits.
